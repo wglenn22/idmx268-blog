@@ -1,8 +1,8 @@
 ---
 template: contact-page
 slug: /contact
-title: Get in touch
+title: Track Me Down
 ---
-Got a burning question regarding **JAMstack**, Need a new **Website**, or just anything in general. We are happy to talk.
+Got a burning question regarding **JAMstack**, Need a new **Website**, or just anything in general. By all mean flag me down.
 
-Just send us a message using the form below or you can send us a DM on [Twitter](https://twitter.com/stackrole)
+Here's a link to my Github <https://github.com/wglenn22> [](https://twitter.com/stackrole)
