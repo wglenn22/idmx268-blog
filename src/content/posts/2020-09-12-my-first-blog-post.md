@@ -7,3 +7,11 @@ description: my first blog
 featuredImage: /assets/yannis-papanastasopoulos-u6dnimaudae-unsplash.jpg
 ---
 **Hello World**
+
+
+
+**`body {`**
+
+**`font-size: 1rem;`**
+
+**`}`**
