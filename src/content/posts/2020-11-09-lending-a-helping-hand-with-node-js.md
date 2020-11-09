@@ -4,6 +4,7 @@ title: Lending A Helping Hand With node.js
 slug: get_help_node.js
 date: 2020-11-08 19:48
 description: Lend a hand
+featuredImage: /assets/max-chen-lud4oaucp4q-unsplash.jpg
 ---
 
 
