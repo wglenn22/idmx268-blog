@@ -10,14 +10,17 @@ Today I chose to review an introductory tutorial article on node.js by web devel
 
 ### \    Sum up
 
-Title:	The Ultimate Node.js Beginner Tutorial
-Author:	WebDEasy
-Date:	November 5, 2019
-Es Read: 9 min read
-React:	102 heart , 27 unicorn , 306 bookmarks 
-Comm:	6 comments
-Tags:	#node #javascript #webdev #beginners
-Url:	https://dev.to/webdeasy/the-ultimate-node-js-beginner-tutorial-f6
+1. Title: The ultimate node.js tutorial
+
+2. Author: WebDEasy
+
+
+3. Date:	November 5, 2019
+4. Es Read: 9 min read
+5. React:	102 heart , 27 unicorn , 306 bookmarks 
+6. Comm:	6 comments
+7. Tags:	#node #javascript #webdev #beginners
+8. Url:	https://dev.to/webdeasy/the-ultimate-node-js-beginner-tutorial-f6
 
 https://codepen.io/wglenn22/pen/OJXBbEL
 
